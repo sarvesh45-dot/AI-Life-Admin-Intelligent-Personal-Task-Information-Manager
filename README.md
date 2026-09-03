@@ -135,7 +135,7 @@ AI Life Admin uses a modern futuristic interface featuring:
 
 ### 1. Clone the Repository
 
-git clone https://github.com/YOUR-USERNAME/ai-life-admin.git
+git clone https://github.com/sarvesh45-dot/ai-life-admin.git
 
 ### 2. Open the Project
 
